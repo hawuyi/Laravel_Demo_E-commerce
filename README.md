@@ -19,4 +19,4 @@
 
 4.有資料預產生器 Seeder
 
-[Dillinger](https://youtu.be/DORqcH3Fl1c/ "link")
+[Postman作品DEMO](https://youtu.be/DORqcH3Fl1c/ "link")
