@@ -1,4 +1,5 @@
 # Laravel_Demo_E-commerce1
+[Postman作品DEMO影片點我](https://youtu.be/DORqcH3Fl1c/ "link")
 實作具電商功能 API Server
 實作出一個 API 應用程式，並具有基本電商的購物和會員功能。
 
@@ -19,4 +20,3 @@
 
 4.有資料預產生器 Seeder
 
-[Postman作品DEMO](https://youtu.be/DORqcH3Fl1c/ "link")
