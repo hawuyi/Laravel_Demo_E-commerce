@@ -25,5 +25,4 @@
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/"RA0Ac-3zitM"/0.jpg)]
 (https://www.youtube.com/watch?v="RA0Ac-3zitM" "電商功能 API Server")
-alt="Postman作品DEMO" width="400" height="300" border="10" /></a>
 
