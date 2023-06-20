@@ -23,7 +23,7 @@
 
 #### Postman作品DEMO
 
-<a href="[(https://youtu.be/RA0Ac-3zitM)]
-" target="_blank"><img src="http://img.youtube.com/vi/etI1WYAiy9A/0.jpg" 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/"RA0Ac-3zitM"/0.jpg)]
+(https://www.youtube.com/watch?v="RA0Ac-3zitM" "電商功能 API Server")
 alt="Postman作品DEMO" width="400" height="300" border="10" /></a>
 
