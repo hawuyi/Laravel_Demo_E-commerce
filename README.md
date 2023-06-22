@@ -23,5 +23,5 @@
 
 #### Postman作品DEMO
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1o3Dnx0dPtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/RA0Ac-3zitM
 
