@@ -22,5 +22,11 @@
 4. 有資料預產生器 Seeder
 
 #### Postman作品DEMO
-https://youtu.be/RA0Ac-3zitM
 
+<a href="https://www.youtube.com/watch?v=RA0Ac-3zitM&t=14s
+" target="_blank"><img src="http://img.youtube.com/vi/etI1WYAiy9A/0.jpg" 
+alt="Postman作品DEMO" width="400" height="300" border="10" /></a>
+
+#### SQL架構
+
+![SQL Scheme](e-commerce.png)
