@@ -23,9 +23,6 @@
 
 #### Postman作品DEMO
 
-<a href="https://www.youtube.com/watch?v=RA0Ac-3zitM&t=14s
-" target="_blank"></a>
+<img src="https://github.com/joe94113/Laravel_Demo_E-commerce1/raw/main/e-commerce.png>
 
-#### SQL架構
 
-![SQL Scheme](e-commerce.png)
