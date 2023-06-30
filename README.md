@@ -23,6 +23,6 @@
 
 #### Postman作品DEMO
 
-<img src="https://github.com/joe94113/Laravel_Demo_E-commerce1/raw/main/e-commerce.png>
+https://youtu.be/RA0Ac-3zitM
 
 
