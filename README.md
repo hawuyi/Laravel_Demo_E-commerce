@@ -24,8 +24,7 @@
 #### Postman作品DEMO
 
 <a href="https://www.youtube.com/watch?v=RA0Ac-3zitM&t=14s
-" target="_blank"><img src="http://img.youtube.com/vi/RA0Ac-3zitM&t=14s/0.jpg" 
-alt="Postman作品DEMO" width="400" height="300" border="10" /></a>
+" target="_blank"></a>
 
 #### SQL架構
 
